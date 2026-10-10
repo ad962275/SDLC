@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://star-scripts.com/api/run/4io0JRRZykoR5oghsBXB7s0m6aZt0yo3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ad962275/CHOCOLA-CODE-REDEEMER/refs/heads/main/script-lua"))()
